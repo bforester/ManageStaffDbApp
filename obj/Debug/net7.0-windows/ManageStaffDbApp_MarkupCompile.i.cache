@@ -1,0 +1,20 @@
+﻿ManageStaffDbApp
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\User\source\repos\ManageStaffDbApp\obj\Debug\net7.0-windows\
+ManageStaffDbApp
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\User\source\repos\ManageStaffDbApp\App.xaml
+8-1999754345
+
+221192000131
+226228447041
+View\AddNewDepartmentWindow.xaml;View\AddNewPositionWindow.xaml;View\AddNewUserWindow .xaml;View\EditDepartmentWindow.xaml;View\EditPositionWindow.xaml;View\EditUserWindow.xaml;View\MainWindow.xaml;View\MessageView.xaml;
+
+False
+
